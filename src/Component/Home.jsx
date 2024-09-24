@@ -33,7 +33,7 @@ const Home = () => {
 
             <Heading fontSize = '50px'  color = 'white' letterSpacing={'2px'} as = 'h1'>Hi! I Am</Heading>
 
-            <Heading fontSize = '50px' id="user-detail-name"  color = 'rgb(0, 255, 162)' fontFamily={'monospace'} letterSpacing={'2px'}  as = 'h1'>Hemant Chaudhari22222</Heading>
+            <Heading fontSize = '50px' id="user-detail-name"  color = 'rgb(0, 255, 162)' fontFamily={'monospace'} letterSpacing={'2px'}  as = 'h1'>Hemant Chaudhari</Heading>
 
             <Text mt = '15px' fontSize = '15px' id="user-detail-intro">A passionate Full Stack MERN Developer skilled in HTML, CSS, Javascript and React, with a focus on designing and building high-performance and scalable enterprise applications</Text>
 
